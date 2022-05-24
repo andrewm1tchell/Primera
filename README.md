@@ -1,4 +1,4 @@
-# Primera
+# Primera by Mitchell and Yun
 Primera by Mitchell and Yun
 
 Primera is the genesis project from Andrew Mitchell and Grant Yun written completely in p5.js. Primera, capped at 400 individual pieces generated upon mint, has been a project with years in the making. It is a study and interpretation on the fundamentals of early 20th century art utilizing 21st century blockchain technology. Primeras are all interactive!
